@@ -20,9 +20,13 @@ public class ArrayTest {
 //        System.out.println("Meta Binary Search");
 //        System.out.println(MetaBinary.search(arr, 5));
 
-        System.out.println("Ternary Search");
-
-        System.out.println("Iterative");
-        System.out.println(TernarySearch.iterativeSearch(arr, 5));
+//        System.out.println("Ternary Search");
+//
+//        System.out.println("Iterative");
+//        System.out.println(TernarySearch.iterativeSearch(arr, 5));
+//        System.out.println("Recursive");
+//        System.out.println(TernarySearch.recursiveSearch(arr, 5));
+    
+    
     }
 }
