@@ -26,8 +26,8 @@ public class ArrayTest {
 //        System.out.println(TernarySearch.iterativeSearch(arr, 5));
 //        System.out.println("Recursive");
 //        System.out.println(TernarySearch.recursiveSearch(arr, 5));
-        
-        System.out.println("Jump Search");
-        System.out.println(JumpSearch.search(arr, 3));
+
+//        System.out.println("Jump Search");
+//        System.out.println(JumpSearch.search(arr, 3));
     }
 }
