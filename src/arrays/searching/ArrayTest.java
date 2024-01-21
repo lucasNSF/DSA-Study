@@ -29,5 +29,13 @@ public class ArrayTest {
 
 //        System.out.println("Jump Search");
 //        System.out.println(JumpSearch.search(arr, 3));
+        
+        System.out.println("Interpolation Search");
+        
+        System.out.println("Iterative");
+        System.out.println(InterpolationSearch.iterativeSearch(arr, 5));
+        
+        System.out.println("Recursive");
+        System.out.println(InterpolationSearch.recursiveSearch(arr, 5));
     }
 }
